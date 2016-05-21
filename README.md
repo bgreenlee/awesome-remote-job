@@ -288,7 +288,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Communities
 - [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - subreddit
-- [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
+- [remotes.club](https://www.remotes.club/) - Remotes community and associated [Slack team](http://slack.remotes.club/)
 - [Hacker Paradise](http://www.hackerparadise.org/) - traveling hackers
 - [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee
 - [Nomadler](http://nomadler.com) - Hacker News for nomads
